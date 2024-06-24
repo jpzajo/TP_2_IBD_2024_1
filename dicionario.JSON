@@ -1,0 +1,685 @@
+{
+        "scheme": "file",
+    "resources": [
+      {
+        "path": "data/municipio.csv",
+        "name": "municipio",
+        "title": "Município",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string",
+              "title": "Nome do Município",
+              "description": "Nome do Município do Evento",
+              "format": "default"
+            },
+            {
+              "name": "risp",
+              "type": "string",
+              "title": "Região Integrada de Segurança Pública",
+              "description": "Região Integrada de Segurança Pública",
+              "format": "default"
+            },
+            {
+              "name": "rmbh",
+              "type": "string",
+              "title": "Região Metropolitana de Belo Horizonte",
+              "description": "Indica se o município pertence a região metropolitana de Belo Horizonte",
+              "format": "default"
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      },
+      {
+        "path": "data/violencia_domestica_2014.csv",
+        "name": "violencia-contra-mulher-2014",
+        "title": "Violencia Contra Mulher 2014",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            
+            {
+              "name": "data_fato",
+              "type": "date",
+              "title": "Data do fato",
+              "description": "data de ocorrência do evento",
+              "format": "default"
+            },
+            
+            
+            {
+              "name": "natureza_delito",
+              "type": "string",
+              "title": "Natureza do Delito",
+              "description": "Natureza do Delito",
+              "format": "default"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string",
+              "title": "Tentado ou consumado",
+              "description": "Tentado ou consumado",
+              "format": "default"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer",
+              "title": "Quantidade de vítimas",
+              "description": "quantitativo de vítimas de violência doméstica",
+              "format": "default",
+              "bareNumber": true
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      },
+      {
+        "path": "data/violencia_domestica_2015.csv",
+        "name": "violencia-contra-mulher-2015",
+        "title": "Violencia Contra Mulher 2015",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            {
+              "name": "data_fato",
+              "type": "date",
+              "title": "Data do fato",
+              "description": "data de ocorrência do evento",
+              "format": "default"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string",
+              "title": "Natureza do Delito",
+              "description": "Natureza do Delito",
+              "format": "default"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string",
+              "title": "Tentado ou consumado",
+              "description": "Tentado ou consumado",
+              "format": "default"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer",
+              "title": "Quantidade de vítimas",
+              "description": "quantitativo de vítimas de violência doméstica",
+              "format": "default",
+              "bareNumber": true
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      },
+      {
+        "path": "data/violencia_domestica_2016.csv",
+        "name": "violencia-contra-mulher-2016",
+        "title": "Violencia Contra Mulher 2016",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            {
+              "name": "data_fato",
+              "type": "date",
+              "title": "Data do fato",
+              "description": "data de ocorrência do evento",
+              "format": "default"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string",
+              "title": "Natureza do Delito",
+              "description": "Natureza do Delito",
+              "format": "default"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string",
+              "title": "Tentado ou consumado",
+              "description": "Tentado ou consumado",
+              "format": "default"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer",
+              "title": "Quantidade de vítimas",
+              "description": "quantitativo de vítimas de violência doméstica",
+              "format": "default",
+              "bareNumber": true
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      },
+      {
+        "path": "data/violencia_domestica_2017.csv",
+        "name": "violencia-contra-mulher-2017",
+        "title": "Violencia Contra Mulher 2017",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            {
+              "name": "data_fato",
+              "type": "date",
+              "title": "Data do fato",
+              "description": "data de ocorrência do evento",
+              "format": "default"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string",
+              "title": "Natureza do Delito",
+              "description": "Natureza do Delito",
+              "format": "default"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string",
+              "title": "Tentado ou consumado",
+              "description": "Tentado ou consumado",
+              "format": "default"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer",
+              "title": "Quantidade de vítimas",
+              "description": "quantitativo de vítimas de violência doméstica",
+              "format": "default",
+              "bareNumber": true
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      },
+      {
+        "path": "data/violencia_domestica_2018.csv",
+        "name": "violencia-contra-mulher-2018",
+        "title": "Violencia Contra Mulher 2018",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            {
+              "name": "data_fato",
+              "type": "date",
+              "title": "Data do fato",
+              "description": "data de ocorrência do evento",
+              "format": "default"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string",
+              "title": "Natureza do Delito",
+              "description": "Natureza do Delito",
+              "format": "default"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string",
+              "title": "Tentado ou consumado",
+              "description": "Tentado ou consumado",
+              "format": "default"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer",
+              "title": "Quantidade de vítimas",
+              "description": "quantitativo de vítimas de violência doméstica",
+              "format": "default",
+              "bareNumber": true
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      },
+      {
+        "path": "data/violencia_domestica_2019.csv",
+        "name": "violencia-contra-mulher-2019",
+        "title": "Violencia Contra Mulher 2019",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            {
+              "name": "data_fato",
+              "type": "date",
+              "title": "Data do fato",
+              "description": "data de ocorrência do evento",
+              "format": "default"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string",
+              "title": "Natureza do Delito",
+              "description": "Natureza do Delito",
+              "format": "default"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string",
+              "title": "Tentado ou consumado",
+              "description": "Tentado ou consumado",
+              "format": "default"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer",
+              "title": "Quantidade de vítimas",
+              "description": "quantitativo de vítimas de violência doméstica",
+              "format": "default",
+              "bareNumber": true
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      },
+      {
+        "path": "data/violencia_domestica_2020.csv",
+        "name": "violencia-contra-mulher-2020",
+        "title": "Violencia Contra Mulher 2020",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            {
+              "name": "data_fato",
+              "type": "date",
+              "title": "Data do fato",
+              "description": "data de ocorrência do evento",
+              "format": "default"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string",
+              "title": "Natureza do Delito",
+              "description": "Natureza do Delito",
+              "format": "default"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string",
+              "title": "Tentado ou consumado",
+              "description": "Tentado ou consumado",
+              "format": "default"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer",
+              "title": "Quantidade de vítimas",
+              "description": "quantitativo de vítimas de violência doméstica",
+              "format": "default",
+              "bareNumber": true
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      },
+      {
+        "path": "data/violencia_domestica_2021.csv",
+        "name": "violencia-contra-mulher-2021",
+        "title": "Violencia Contra Mulher 2021",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            
+            {
+              "name": "data_fato",
+              "type": "date",
+              "title": "Data do fato",
+              "description": "data de ocorrência do evento",
+              "format": "default"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string",
+              "title": "Natureza do Delito",
+              "description": "Natureza do Delito",
+              "format": "default"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string",
+              "title": "Tentado ou consumado",
+              "description": "Tentado ou consumado",
+              "format": "default"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer",
+              "title": "Quantidade de vítimas",
+              "description": "quantitativo de vítimas de violência doméstica",
+              "format": "default",
+              "bareNumber": true
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      },
+      {
+        "path": "data/violencia_domestica_2022.csv",
+        "name": "violencia-contra-mulher-2022",
+        "title": "Violencia Contra Mulher 2022",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            {
+              "name": "data_fato",
+              "type": "date",
+              "title": "Data do fato",
+              "description": "data de ocorrência do evento",
+              "format": "default"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string",
+              "title": "Natureza do Delito",
+              "description": "Natureza do Delito",
+              "format": "default"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string",
+              "title": "Tentado ou consumado",
+              "description": "Tentado ou consumado",
+              "format": "default"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer",
+              "title": "Quantidade de vítimas",
+              "description": "quantitativo de vítimas de violência doméstica",
+              "format": "default",
+              "bareNumber": true
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      },
+      {
+        "path": "data/violencia_domestica_2023.csv",
+        "name": "violencia-contra-mulher-2023",
+        "title": "Violencia Contra Mulher 2023",
+        "profile": "tabular-data-resource",
+        "scheme": "file",
+        "format": "csv",
+        "hashing": "md5",
+        "encoding": "utf-8-sig",
+        "dialect": {
+          "delimiter": ";",
+          "lineTerminator": "\r\n",
+          "quoteChar": "\"",
+          "doubleQuote": true,
+          "skipInitialSpace": false
+        },
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer",
+              "title": "Código do Município",
+              "description": "Código do Município do Evento",
+              "format": "default",
+              "bareNumber": true
+            },
+            
+            {
+              "name": "data_fato",
+              "type": "date",
+              "title": "Data do fato",
+              "description": "data de ocorrência do evento",
+              "format": "default"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string",
+              "title": "Natureza do Delito",
+              "description": "Natureza do Delito",
+              "format": "default"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string",
+              "title": "Tentado ou consumado",
+              "description": "Tentado ou consumado",
+              "format": "default"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer",
+              "title": "Quantidade de vítimas",
+              "description": "quantitativo de vítimas de violência doméstica",
+              "format": "default",
+              "bareNumber": true
+            }
+          ],
+          "scheme": "file",
+          "missingValues": [
+            ""
+          ]
+        }
+      }
+    ],
+    "profile": "tabular-data-package"
+  }
