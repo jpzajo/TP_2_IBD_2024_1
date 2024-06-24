@@ -1,0 +1,854 @@
+municipio_cod;municipio_fato;risp;rmbh
+310010;ABADIA DOS DOURADOS;10º RISP - Patos de Minas;3) Interior de MG
+310020;ABAETE;7º RISP - Divinópolis;3) Interior de MG
+310030;ABRE-CAMPO;12º RISP - Ipatinga;3) Interior de MG
+310040;ACAIACA;12º RISP - Ipatinga;3) Interior de MG
+310050;ACUCENA;12º RISP - Ipatinga;3) Interior de MG
+310060;AGUA BOA;14º RISP - Curvelo;3) Interior de MG
+310070;AGUA COMPRIDA;5º RISP - Uberaba;3) Interior de MG
+310080;AGUANIL;6º RISP - Lavras;3) Interior de MG
+310090;AGUAS FORMOSAS;15º RISP - Teófilo Otoni;3) Interior de MG
+310100;AGUAS VERMELHAS;15º RISP - Teófilo Otoni;3) Interior de MG
+310110;AIMORES;8º RISP - Governador Valadares;3) Interior de MG
+310120;AIURUOCA;17º RISP - Pouso Alegre;3) Interior de MG
+310130;ALAGOA;17º RISP - Pouso Alegre;3) Interior de MG
+310140;ALBERTINA;17º RISP - Pouso Alegre;3) Interior de MG
+310150;ALEM PARAIBA;4º RISP - Juiz de Fora;3) Interior de MG
+310160;ALFENAS;18º RISP - Poços de Caldas;3) Interior de MG
+310163;ALFREDO VASCONCELOS;13º RISP - Barbacena;3) Interior de MG
+310170;ALMENARA;15º RISP - Teófilo Otoni;3) Interior de MG
+310180;ALPERCATA;8º RISP - Governador Valadares;3) Interior de MG
+310190;ALPINOPOLIS;18º RISP - Poços de Caldas;3) Interior de MG
+310200;ALTEROSA;18º RISP - Poços de Caldas;3) Interior de MG
+310205;ALTO CAPARAO;12º RISP - Ipatinga;3) Interior de MG
+310210;ALTO RIO DOCE;13º RISP - Barbacena;3) Interior de MG
+310220;ALVARENGA;8º RISP - Governador Valadares;3) Interior de MG
+310230;ALVINOPOLIS;12º RISP - Ipatinga;3) Interior de MG
+310240;ALVORADA DE MINAS;14º RISP - Curvelo;3) Interior de MG
+310250;AMPARO DA SERRA;12º RISP - Ipatinga;3) Interior de MG
+310260;ANDRADAS;18º RISP - Poços de Caldas;3) Interior de MG
+310270;CACHOEIRA DE PAJEU;15º RISP - Teófilo Otoni;3) Interior de MG
+310280;ANDRELANDIA;13º RISP - Barbacena;3) Interior de MG
+310285;ANGELANDIA;14º RISP - Curvelo;3) Interior de MG
+310290;ANTONIO CARLOS;13º RISP - Barbacena;3) Interior de MG
+310300;ANTONIO DIAS;12º RISP - Ipatinga;3) Interior de MG
+310310;ANTONIO PRADO DE MINAS;4º RISP - Juiz de Fora;3) Interior de MG
+310320;ARACAI;19º RISP - Sete Lagoas;3) Interior de MG
+310330;ARACITABA;13º RISP - Barbacena;3) Interior de MG
+310340;ARACUAI;15º RISP - Teófilo Otoni;3) Interior de MG
+310350;ARAGUARI;9º RISP - Uberlândia;3) Interior de MG
+310360;ARANTINA;13º RISP - Barbacena;3) Interior de MG
+310370;ARAPONGA;4º RISP - Juiz de Fora;3) Interior de MG
+310375;ARAPORA;9º RISP - Uberlândia;3) Interior de MG
+310380;ARAPUA;10º RISP - Patos de Minas;3) Interior de MG
+310390;ARAUJOS;7º RISP - Divinópolis;3) Interior de MG
+310400;ARAXA;5º RISP - Uberaba;3) Interior de MG
+310410;ARCEBURGO;18º RISP - Poços de Caldas;3) Interior de MG
+310420;ARCOS;7º RISP - Divinópolis;3) Interior de MG
+310430;AREADO;18º RISP - Poços de Caldas;3) Interior de MG
+310440;ARGIRITA;4º RISP - Juiz de Fora;3) Interior de MG
+310445;ARICANDUVA;14º RISP - Curvelo;3) Interior de MG
+310450;ARINOS;16º RISP - Unaí;3) Interior de MG
+310460;ASTOLFO DUTRA;4º RISP - Juiz de Fora;3) Interior de MG
+310470;ATALEIA;15º RISP - Teófilo Otoni;3) Interior de MG
+310480;AUGUSTO DE LIMA;14º RISP - Curvelo;3) Interior de MG
+310490;BAEPENDI;17º RISP - Pouso Alegre;3) Interior de MG
+310500;BALDIM;19º RISP - Sete Lagoas;2) RMBH (sem BH)
+310510;BAMBUI;7º RISP - Divinópolis;3) Interior de MG
+310520;BANDEIRA;15º RISP - Teófilo Otoni;3) Interior de MG
+310530;BANDEIRA DO SUL;18º RISP - Poços de Caldas;3) Interior de MG
+310540;BARAO DE COCAIS;12º RISP - Ipatinga;3) Interior de MG
+310550;BARAO DO MONTE ALTO;4º RISP - Juiz de Fora;3) Interior de MG
+310560;BARBACENA;13º RISP - Barbacena;3) Interior de MG
+310570;BARRA LONGA;12º RISP - Ipatinga;3) Interior de MG
+310590;BARROSO;13º RISP - Barbacena;3) Interior de MG
+310600;BELA VISTA DE MINAS;12º RISP - Ipatinga;3) Interior de MG
+310610;BELMIRO BRAGA;4º RISP - Juiz de Fora;3) Interior de MG
+310620;BELO HORIZONTE;1º RISP - Belo Horizonte;1) Belo Horizonte
+310630;BELO ORIENTE;12º RISP - Ipatinga;3) Interior de MG
+310640;BELO VALE;13º RISP - Barbacena;3) Interior de MG
+310650;BERILO;14º RISP - Curvelo;3) Interior de MG
+310660;BERTOPOLIS;15º RISP - Teófilo Otoni;3) Interior de MG
+310665;BERIZAL;11º RISP - Montes Claros;3) Interior de MG
+310670;BETIM;2º RISP - Contagem;2) RMBH (sem BH)
+310680;BIAS FORTES;13º RISP - Barbacena;3) Interior de MG
+310690;BICAS;4º RISP - Juiz de Fora;3) Interior de MG
+310700;BIQUINHAS;7º RISP - Divinópolis;3) Interior de MG
+310710;BOA ESPERANCA;6º RISP - Lavras;3) Interior de MG
+310720;BOCAINA DE MINAS;17º RISP - Pouso Alegre;3) Interior de MG
+310730;BOCAIUVA;11º RISP - Montes Claros;3) Interior de MG
+310740;BOM DESPACHO;7º RISP - Divinópolis;3) Interior de MG
+310750;BOM JARDIM DE MINAS;13º RISP - Barbacena;3) Interior de MG
+310760;BOM JESUS DA PENHA;18º RISP - Poços de Caldas;3) Interior de MG
+310770;BOM JESUS DO AMPARO;12º RISP - Ipatinga;3) Interior de MG
+310780;BOM JESUS DO GALHO;12º RISP - Ipatinga;3) Interior de MG
+310790;BOM REPOUSO;17º RISP - Pouso Alegre;3) Interior de MG
+310800;BOM SUCESSO;6º RISP - Lavras;3) Interior de MG
+310810;BONFIM;2º RISP - Contagem;3) Interior de MG
+310820;BONFINOPOLIS DE MINAS;16º RISP - Unaí;3) Interior de MG
+310825;BONITO DE MINAS;11º RISP - Montes Claros;3) Interior de MG
+310830;BORDA DA MATA;17º RISP - Pouso Alegre;3) Interior de MG
+310840;BOTELHOS;18º RISP - Poços de Caldas;3) Interior de MG
+310850;BOTUMIRIM;11º RISP - Montes Claros;3) Interior de MG
+310855;BRASILANDIA DE MINAS;16º RISP - Unaí;3) Interior de MG
+310860;BRASILIA DE MINAS;11º RISP - Montes Claros;3) Interior de MG
+310870;BRAS PIRES;4º RISP - Juiz de Fora;3) Interior de MG
+310880;BRAUNAS;12º RISP - Ipatinga;3) Interior de MG
+310890;BRASOPOLIS;17º RISP - Pouso Alegre;3) Interior de MG
+310900;BRUMADINHO;2º RISP - Contagem;2) RMBH (sem BH)
+310910;BUENO BRANDAO;17º RISP - Pouso Alegre;3) Interior de MG
+310920;BUENOPOLIS;14º RISP - Curvelo;3) Interior de MG
+310925;BUGRE;12º RISP - Ipatinga;3) Interior de MG
+310930;BURITIS;16º RISP - Unaí;3) Interior de MG
+310940;BURITIZEIRO;14º RISP - Curvelo;3) Interior de MG
+310945;CABECEIRA GRANDE;16º RISP - Unaí;3) Interior de MG
+310950;CABO VERDE;18º RISP - Poços de Caldas;3) Interior de MG
+310960;CACHOEIRA DA PRATA;19º RISP - Sete Lagoas;3) Interior de MG
+310970;CACHOEIRA DE MINAS;17º RISP - Pouso Alegre;3) Interior de MG
+310980;CACHOEIRA DOURADA;9º RISP - Uberlândia;3) Interior de MG
+310990;CAETANOPOLIS;19º RISP - Sete Lagoas;3) Interior de MG
+311000;CAETE;3º RISP - Vespasiano;2) RMBH (sem BH)
+311010;CAIANA;12º RISP - Ipatinga;3) Interior de MG
+311020;CAJURI;4º RISP - Juiz de Fora;3) Interior de MG
+311030;CALDAS;18º RISP - Poços de Caldas;3) Interior de MG
+311040;CAMACHO;7º RISP - Divinópolis;3) Interior de MG
+311050;CAMANDUCAIA;17º RISP - Pouso Alegre;3) Interior de MG
+311060;CAMBUI;17º RISP - Pouso Alegre;3) Interior de MG
+311070;CAMBUQUIRA;6º RISP - Lavras;3) Interior de MG
+311080;CAMPANARIO;15º RISP - Teófilo Otoni;3) Interior de MG
+311090;CAMPANHA;6º RISP - Lavras;3) Interior de MG
+311100;CAMPESTRE;18º RISP - Poços de Caldas;3) Interior de MG
+311110;CAMPINA VERDE;5º RISP - Uberaba;3) Interior de MG
+311115;CAMPO AZUL;11º RISP - Montes Claros;3) Interior de MG
+311120;CAMPO BELO;6º RISP - Lavras;3) Interior de MG
+311130;CAMPO DO MEIO;18º RISP - Poços de Caldas;3) Interior de MG
+311140;CAMPO FLORIDO;5º RISP - Uberaba;3) Interior de MG
+311150;CAMPOS ALTOS;5º RISP - Uberaba;3) Interior de MG
+311160;CAMPOS GERAIS;18º RISP - Poços de Caldas;3) Interior de MG
+311170;CANAA;4º RISP - Juiz de Fora;3) Interior de MG
+311180;CANAPOLIS;9º RISP - Uberlândia;3) Interior de MG
+311190;CANA VERDE;6º RISP - Lavras;3) Interior de MG
+311200;CANDEIAS;6º RISP - Lavras;3) Interior de MG
+311205;CANTAGALO;8º RISP - Governador Valadares;3) Interior de MG
+311210;CAPARAO;12º RISP - Ipatinga;3) Interior de MG
+311220;CAPELA NOVA;13º RISP - Barbacena;3) Interior de MG
+311230;CAPELINHA;14º RISP - Curvelo;3) Interior de MG
+311240;CAPETINGA;18º RISP - Poços de Caldas;3) Interior de MG
+311250;CAPIM BRANCO;19º RISP - Sete Lagoas;2) RMBH (sem BH)
+311260;CAPINOPOLIS;9º RISP - Uberlândia;3) Interior de MG
+311265;CAPITAO ANDRADE;8º RISP - Governador Valadares;3) Interior de MG
+311270;CAPITAO ENEIAS;11º RISP - Montes Claros;3) Interior de MG
+311280;CAPITOLIO;18º RISP - Poços de Caldas;3) Interior de MG
+311290;CAPUTIRA;12º RISP - Ipatinga;3) Interior de MG
+311300;CARAI;15º RISP - Teófilo Otoni;3) Interior de MG
+311310;CARANAIBA;13º RISP - Barbacena;3) Interior de MG
+311320;CARANDAI;13º RISP - Barbacena;3) Interior de MG
+311330;CARANGOLA;4º RISP - Juiz de Fora;3) Interior de MG
+311340;CARATINGA;12º RISP - Ipatinga;3) Interior de MG
+311350;CARBONITA;14º RISP - Curvelo;3) Interior de MG
+311360;CAREACU;17º RISP - Pouso Alegre;3) Interior de MG
+311370;CARLOS CHAGAS;15º RISP - Teófilo Otoni;3) Interior de MG
+311380;CARMESIA;12º RISP - Ipatinga;3) Interior de MG
+311390;CARMO DA CACHOEIRA;6º RISP - Lavras;3) Interior de MG
+311400;CARMO DA MATA;6º RISP - Lavras;3) Interior de MG
+311410;CARMO DE MINAS;17º RISP - Pouso Alegre;3) Interior de MG
+311420;CARMO DO CAJURU;7º RISP - Divinópolis;3) Interior de MG
+311430;CARMO DO PARANAIBA;10º RISP - Patos de Minas;3) Interior de MG
+311440;CARMO DO RIO CLARO;18º RISP - Poços de Caldas;3) Interior de MG
+311450;CARMOPOLIS DE MINAS;6º RISP - Lavras;3) Interior de MG
+311455;CARNEIRINHO;5º RISP - Uberaba;3) Interior de MG
+311460;CARRANCAS;6º RISP - Lavras;3) Interior de MG
+311470;CARVALHOPOLIS;18º RISP - Poços de Caldas;3) Interior de MG
+311480;CARVALHOS;17º RISP - Pouso Alegre;3) Interior de MG
+311490;CASA GRANDE;13º RISP - Barbacena;3) Interior de MG
+311500;CASCALHO RICO;9º RISP - Uberlândia;3) Interior de MG
+311510;CASSIA;18º RISP - Poços de Caldas;3) Interior de MG
+311520;CONCEICAO DA BARRA DE MINAS;13º RISP - Barbacena;3) Interior de MG
+311530;CATAGUASES;4º RISP - Juiz de Fora;3) Interior de MG
+311535;CATAS ALTAS;12º RISP - Ipatinga;3) Interior de MG
+311540;CATAS ALTAS DA NORUEGA;13º RISP - Barbacena;3) Interior de MG
+311545;CATUJI;15º RISP - Teófilo Otoni;3) Interior de MG
+311547;CATUTI;11º RISP - Montes Claros;3) Interior de MG
+311550;CAXAMBU;17º RISP - Pouso Alegre;3) Interior de MG
+311560;CEDRO DO ABAETE;7º RISP - Divinópolis;3) Interior de MG
+311570;CENTRAL DE MINAS;8º RISP - Governador Valadares;3) Interior de MG
+311580;CENTRALINA;9º RISP - Uberlândia;3) Interior de MG
+311590;CHACARA;4º RISP - Juiz de Fora;3) Interior de MG
+311600;CHALE;12º RISP - Ipatinga;3) Interior de MG
+311610;CHAPADA DO NORTE;14º RISP - Curvelo;3) Interior de MG
+311615;CHAPADA GAUCHA;16º RISP - Unaí;3) Interior de MG
+311620;CHIADOR;4º RISP - Juiz de Fora;3) Interior de MG
+311630;CIPOTANEA;13º RISP - Barbacena;3) Interior de MG
+311640;CLARAVAL;18º RISP - Poços de Caldas;3) Interior de MG
+311650;CLARO DOS POCOES;11º RISP - Montes Claros;3) Interior de MG
+311660;CLAUDIO;7º RISP - Divinópolis;3) Interior de MG
+311670;COIMBRA;4º RISP - Juiz de Fora;3) Interior de MG
+311680;COLUNA;8º RISP - Governador Valadares;3) Interior de MG
+311690;COMENDADOR GOMES;5º RISP - Uberaba;3) Interior de MG
+311700;COMERCINHO;15º RISP - Teófilo Otoni;3) Interior de MG
+311710;CONCEICAO DA APARECIDA;18º RISP - Poços de Caldas;3) Interior de MG
+311720;CONCEICAO DAS PEDRAS;17º RISP - Pouso Alegre;3) Interior de MG
+311730;CONCEICAO DAS ALAGOAS;5º RISP - Uberaba;3) Interior de MG
+311740;CONCEICAO DE IPANEMA;12º RISP - Ipatinga;3) Interior de MG
+311750;CONCEICAO DO MATO DENTRO;14º RISP - Curvelo;3) Interior de MG
+311760;CONCEICAO DO PARA;7º RISP - Divinópolis;3) Interior de MG
+311770;CONCEICAO DO RIO VERDE;6º RISP - Lavras;3) Interior de MG
+311780;CONCEICAO DOS OUROS;17º RISP - Pouso Alegre;3) Interior de MG
+311783;CONEGO MARINHO;11º RISP - Montes Claros;3) Interior de MG
+311787;CONFINS;3º RISP - Vespasiano;2) RMBH (sem BH)
+311790;CONGONHAL;17º RISP - Pouso Alegre;3) Interior de MG
+311800;CONGONHAS;13º RISP - Barbacena;3) Interior de MG
+311810;CONGONHAS DO NORTE;14º RISP - Curvelo;3) Interior de MG
+311820;CONQUISTA;5º RISP - Uberaba;3) Interior de MG
+311830;CONSELHEIRO LAFAIETE;13º RISP - Barbacena;3) Interior de MG
+311840;CONSELHEIRO PENA;8º RISP - Governador Valadares;3) Interior de MG
+311850;CONSOLACAO;17º RISP - Pouso Alegre;3) Interior de MG
+311860;CONTAGEM;2º RISP - Contagem;2) RMBH (sem BH)
+311870;COQUEIRAL;6º RISP - Lavras;3) Interior de MG
+311880;CORACAO DE JESUS;11º RISP - Montes Claros;3) Interior de MG
+311890;CORDISBURGO;19º RISP - Sete Lagoas;3) Interior de MG
+311900;CORDISLANDIA;17º RISP - Pouso Alegre;3) Interior de MG
+311910;CORINTO;14º RISP - Curvelo;3) Interior de MG
+311920;COROACI;8º RISP - Governador Valadares;3) Interior de MG
+311930;COROMANDEL;10º RISP - Patos de Minas;3) Interior de MG
+311940;CORONEL FABRICIANO;12º RISP - Ipatinga;3) Interior de MG
+311950;CORONEL MURTA;15º RISP - Teófilo Otoni;3) Interior de MG
+311960;CORONEL PACHECO;4º RISP - Juiz de Fora;3) Interior de MG
+311970;CORONEL XAVIER CHAVES;13º RISP - Barbacena;3) Interior de MG
+311980;CORREGO DANTA;7º RISP - Divinópolis;3) Interior de MG
+311990;CORREGO DO BOM JESUS;17º RISP - Pouso Alegre;3) Interior de MG
+311995;CORREGO FUNDO;7º RISP - Divinópolis;3) Interior de MG
+312000;CORREGO NOVO;12º RISP - Ipatinga;3) Interior de MG
+312010;COUTO DE MAGALHAES DE MINAS;14º RISP - Curvelo;3) Interior de MG
+312015;CRISOLITA;15º RISP - Teófilo Otoni;3) Interior de MG
+312020;CRISTAIS;6º RISP - Lavras;3) Interior de MG
+312030;CRISTALIA;11º RISP - Montes Claros;3) Interior de MG
+312040;CRISTIANO OTONI;13º RISP - Barbacena;3) Interior de MG
+312050;CRISTINA;17º RISP - Pouso Alegre;3) Interior de MG
+312060;CRUCILANDIA;2º RISP - Contagem;3) Interior de MG
+312070;CRUZEIRO DA FORTALEZA;10º RISP - Patos de Minas;3) Interior de MG
+312080;CRUZILIA;17º RISP - Pouso Alegre;3) Interior de MG
+312083;CUPARAQUE;8º RISP - Governador Valadares;3) Interior de MG
+312087;CURRAL DE DENTRO;11º RISP - Montes Claros;3) Interior de MG
+312090;CURVELO;14º RISP - Curvelo;3) Interior de MG
+312100;DATAS;14º RISP - Curvelo;3) Interior de MG
+312110;DELFIM MOREIRA;17º RISP - Pouso Alegre;3) Interior de MG
+312120;DELFINOPOLIS;18º RISP - Poços de Caldas;3) Interior de MG
+312125;DELTA;5º RISP - Uberaba;3) Interior de MG
+312130;DESCOBERTO;4º RISP - Juiz de Fora;3) Interior de MG
+312140;DESTERRO DE ENTRE-RIOS;13º RISP - Barbacena;3) Interior de MG
+312150;DESTERRO DO MELO;13º RISP - Barbacena;3) Interior de MG
+312160;DIAMANTINA;14º RISP - Curvelo;3) Interior de MG
+312170;DIOGO DE VASCONCELOS;3º RISP - Vespasiano;3) Interior de MG
+312180;DIONISIO;12º RISP - Ipatinga;3) Interior de MG
+312190;DIVINESIA;4º RISP - Juiz de Fora;3) Interior de MG
+312200;DIVINO;4º RISP - Juiz de Fora;3) Interior de MG
+312210;DIVINO DAS LARANJEIRAS;8º RISP - Governador Valadares;3) Interior de MG
+312220;DIVINOLANDIA DE MINAS;8º RISP - Governador Valadares;3) Interior de MG
+312230;DIVINOPOLIS;7º RISP - Divinópolis;3) Interior de MG
+312235;DIVISA ALEGRE;15º RISP - Teófilo Otoni;3) Interior de MG
+312240;DIVISA NOVA;18º RISP - Poços de Caldas;3) Interior de MG
+312245;DIVISOPOLIS;15º RISP - Teófilo Otoni;3) Interior de MG
+312247;DOM BOSCO;16º RISP - Unaí;3) Interior de MG
+312250;DOM CAVATI;12º RISP - Ipatinga;3) Interior de MG
+312260;DOM JOAQUIM;14º RISP - Curvelo;3) Interior de MG
+312270;DOM SILVERIO;12º RISP - Ipatinga;3) Interior de MG
+312280;DOM VICOSO;17º RISP - Pouso Alegre;3) Interior de MG
+312290;DONA EUSEBIA;4º RISP - Juiz de Fora;3) Interior de MG
+312300;DORES DE CAMPOS;13º RISP - Barbacena;3) Interior de MG
+312310;DORES DE GUANHAES;8º RISP - Governador Valadares;3) Interior de MG
+312320;DORES DO INDAIA;7º RISP - Divinópolis;3) Interior de MG
+312330;DORES DO TURVO;4º RISP - Juiz de Fora;3) Interior de MG
+312340;DORESOPOLIS;18º RISP - Poços de Caldas;3) Interior de MG
+312350;DOURADOQUARA;10º RISP - Patos de Minas;3) Interior de MG
+312352;DURANDE;12º RISP - Ipatinga;3) Interior de MG
+312360;ELOI MENDES;6º RISP - Lavras;3) Interior de MG
+312370;ENGENHEIRO CALDAS;8º RISP - Governador Valadares;3) Interior de MG
+312380;ENGENHEIRO NAVARRO;11º RISP - Montes Claros;3) Interior de MG
+312385;ENTRE-FOLHAS;12º RISP - Ipatinga;3) Interior de MG
+312390;ENTRE-RIOS DE MINAS;13º RISP - Barbacena;3) Interior de MG
+312400;ERVALIA;4º RISP - Juiz de Fora;3) Interior de MG
+312410;ESMERALDAS;2º RISP - Contagem;2) RMBH (sem BH)
+312420;ESPERA FELIZ;12º RISP - Ipatinga;3) Interior de MG
+312430;ESPINOSA;11º RISP - Montes Claros;3) Interior de MG
+312440;ESPIRITO SANTO DO DOURADO;17º RISP - Pouso Alegre;3) Interior de MG
+312450;ESTIVA;17º RISP - Pouso Alegre;3) Interior de MG
+312460;ESTRELA-DALVA;4º RISP - Juiz de Fora;3) Interior de MG
+312470;ESTRELA DO INDAIA;7º RISP - Divinópolis;3) Interior de MG
+312480;ESTRELA DO SUL;9º RISP - Uberlândia;3) Interior de MG
+312490;EUGENOPOLIS;4º RISP - Juiz de Fora;3) Interior de MG
+312500;EWBANK DA CAMARA;13º RISP - Barbacena;3) Interior de MG
+312510;EXTREMA;17º RISP - Pouso Alegre;3) Interior de MG
+312520;FAMA;18º RISP - Poços de Caldas;3) Interior de MG
+312530;FARIA LEMOS;4º RISP - Juiz de Fora;3) Interior de MG
+312540;FELICIO DOS SANTOS;14º RISP - Curvelo;3) Interior de MG
+312550;SAO GONCALO DO RIO PRETO;14º RISP - Curvelo;3) Interior de MG
+312560;FELISBURGO;15º RISP - Teófilo Otoni;3) Interior de MG
+312570;FELIXLANDIA;14º RISP - Curvelo;3) Interior de MG
+312580;FERNANDES TOURINHO;8º RISP - Governador Valadares;3) Interior de MG
+312590;FERROS;12º RISP - Ipatinga;3) Interior de MG
+312595;FERVEDOURO;4º RISP - Juiz de Fora;3) Interior de MG
+312600;FLORESTAL;2º RISP - Contagem;2) RMBH (sem BH)
+312610;FORMIGA;7º RISP - Divinópolis;3) Interior de MG
+312620;FORMOSO;16º RISP - Unaí;3) Interior de MG
+312630;FORTALEZA DE MINAS;18º RISP - Poços de Caldas;3) Interior de MG
+312640;FORTUNA DE MINAS;19º RISP - Sete Lagoas;3) Interior de MG
+312650;FRANCISCO BADARO;14º RISP - Curvelo;3) Interior de MG
+312660;FRANCISCO DUMONT;11º RISP - Montes Claros;3) Interior de MG
+312670;FRANCISCO SA;11º RISP - Montes Claros;3) Interior de MG
+312675;FRANCISCOPOLIS;15º RISP - Teófilo Otoni;3) Interior de MG
+312680;FREI GASPAR;15º RISP - Teófilo Otoni;3) Interior de MG
+312690;FREI INOCENCIO;8º RISP - Governador Valadares;3) Interior de MG
+312695;FREI LAGONEGRO;8º RISP - Governador Valadares;3) Interior de MG
+312700;FRONTEIRA;5º RISP - Uberaba;3) Interior de MG
+312705;FRONTEIRA DOS VALES;15º RISP - Teófilo Otoni;3) Interior de MG
+312707;FRUTA DE LEITE;11º RISP - Montes Claros;3) Interior de MG
+312710;FRUTAL;5º RISP - Uberaba;3) Interior de MG
+312720;FUNILANDIA;19º RISP - Sete Lagoas;3) Interior de MG
+312730;GALILEIA;8º RISP - Governador Valadares;3) Interior de MG
+312733;GAMELEIRAS;11º RISP - Montes Claros;3) Interior de MG
+312735;GLAUCILANDIA;11º RISP - Montes Claros;3) Interior de MG
+312737;GOIABEIRA;8º RISP - Governador Valadares;3) Interior de MG
+312738;GOIANA;4º RISP - Juiz de Fora;3) Interior de MG
+312740;GONCALVES;17º RISP - Pouso Alegre;3) Interior de MG
+312750;GONZAGA;8º RISP - Governador Valadares;3) Interior de MG
+312760;GOUVEIA;14º RISP - Curvelo;3) Interior de MG
+312770;GOVERNADOR VALADARES;8º RISP - Governador Valadares;3) Interior de MG
+312780;GRAO-MOGOL;11º RISP - Montes Claros;3) Interior de MG
+312790;GRUPIARA;9º RISP - Uberlândia;3) Interior de MG
+312800;GUANHAES;8º RISP - Governador Valadares;3) Interior de MG
+312810;GUAPE;6º RISP - Lavras;3) Interior de MG
+312820;GUARACIABA;12º RISP - Ipatinga;3) Interior de MG
+312825;GUARACIAMA;11º RISP - Montes Claros;3) Interior de MG
+312830;GUARANESIA;18º RISP - Poços de Caldas;3) Interior de MG
+312840;GUARANI;4º RISP - Juiz de Fora;3) Interior de MG
+312850;GUARARA;4º RISP - Juiz de Fora;3) Interior de MG
+312860;GUARDA-MOR;16º RISP - Unaí;3) Interior de MG
+312870;GUAXUPE;18º RISP - Poços de Caldas;3) Interior de MG
+312880;GUIDOVAL;4º RISP - Juiz de Fora;3) Interior de MG
+312890;GUIMARANIA;10º RISP - Patos de Minas;3) Interior de MG
+312900;GUIRICEMA;4º RISP - Juiz de Fora;3) Interior de MG
+312910;GURINHATA;9º RISP - Uberlândia;3) Interior de MG
+312920;HELIODORA;17º RISP - Pouso Alegre;3) Interior de MG
+312930;IAPU;12º RISP - Ipatinga;3) Interior de MG
+312940;IBERTIOGA;13º RISP - Barbacena;3) Interior de MG
+312950;IBIA;5º RISP - Uberaba;3) Interior de MG
+312960;IBIAI;11º RISP - Montes Claros;3) Interior de MG
+312965;IBIRACATU;11º RISP - Montes Claros;3) Interior de MG
+312970;IBIRACI;18º RISP - Poços de Caldas;3) Interior de MG
+312980;IBIRITE;2º RISP - Contagem;2) RMBH (sem BH)
+312990;IBITIURA DE MINAS;18º RISP - Poços de Caldas;3) Interior de MG
+313000;IBITURUNA;6º RISP - Lavras;3) Interior de MG
+313005;ICARAI DE MINAS;11º RISP - Montes Claros;3) Interior de MG
+313010;IGARAPE;2º RISP - Contagem;2) RMBH (sem BH)
+313020;IGARATINGA;7º RISP - Divinópolis;3) Interior de MG
+313030;IGUATAMA;7º RISP - Divinópolis;3) Interior de MG
+313040;IJACI;6º RISP - Lavras;3) Interior de MG
+313050;ILICINEA;6º RISP - Lavras;3) Interior de MG
+313055;IMBE DE MINAS;12º RISP - Ipatinga;3) Interior de MG
+313060;INCONFIDENTES;17º RISP - Pouso Alegre;3) Interior de MG
+313065;INDAIABIRA;11º RISP - Montes Claros;3) Interior de MG
+313070;INDIANOPOLIS;9º RISP - Uberlândia;3) Interior de MG
+313080;INGAI;6º RISP - Lavras;3) Interior de MG
+313090;INHAPIM;12º RISP - Ipatinga;3) Interior de MG
+313100;INHAUMA;19º RISP - Sete Lagoas;3) Interior de MG
+313110;INIMUTABA;14º RISP - Curvelo;3) Interior de MG
+313115;IPABA;12º RISP - Ipatinga;3) Interior de MG
+313120;IPANEMA;12º RISP - Ipatinga;3) Interior de MG
+313130;IPATINGA;12º RISP - Ipatinga;3) Interior de MG
+313140;IPIACU;9º RISP - Uberlândia;3) Interior de MG
+313150;IPUIUNA;18º RISP - Poços de Caldas;3) Interior de MG
+313160;IRAI DE MINAS;10º RISP - Patos de Minas;3) Interior de MG
+313170;ITABIRA;12º RISP - Ipatinga;3) Interior de MG
+313180;ITABIRINHA;8º RISP - Governador Valadares;3) Interior de MG
+313190;ITABIRITO;3º RISP - Vespasiano;3) Interior de MG
+313200;ITACAMBIRA;11º RISP - Montes Claros;3) Interior de MG
+313210;ITACARAMBI;11º RISP - Montes Claros;3) Interior de MG
+313220;ITAGUARA;2º RISP - Contagem;2) RMBH (sem BH)
+313230;ITAIPE;15º RISP - Teófilo Otoni;3) Interior de MG
+313240;ITAJUBA;17º RISP - Pouso Alegre;3) Interior de MG
+313250;ITAMARANDIBA;14º RISP - Curvelo;3) Interior de MG
+313260;ITAMARATI DE MINAS;4º RISP - Juiz de Fora;3) Interior de MG
+313270;ITAMBACURI;15º RISP - Teófilo Otoni;3) Interior de MG
+313280;ITAMBE DO MATO DENTRO;12º RISP - Ipatinga;3) Interior de MG
+313290;ITAMOGI;18º RISP - Poços de Caldas;3) Interior de MG
+313300;ITAMONTE;17º RISP - Pouso Alegre;3) Interior de MG
+313310;ITANHANDU;17º RISP - Pouso Alegre;3) Interior de MG
+313320;ITANHOMI;8º RISP - Governador Valadares;3) Interior de MG
+313330;ITAOBIM;15º RISP - Teófilo Otoni;3) Interior de MG
+313340;ITAPAGIPE;5º RISP - Uberaba;3) Interior de MG
+313350;ITAPECERICA;7º RISP - Divinópolis;3) Interior de MG
+313360;ITAPEVA;17º RISP - Pouso Alegre;3) Interior de MG
+313370;ITATIAIUCU;7º RISP - Divinópolis;2) RMBH (sem BH)
+313375;ITAU DE MINAS;18º RISP - Poços de Caldas;3) Interior de MG
+313380;ITAUNA;7º RISP - Divinópolis;3) Interior de MG
+313390;ITAVERAVA;13º RISP - Barbacena;3) Interior de MG
+313400;ITINGA;15º RISP - Teófilo Otoni;3) Interior de MG
+313410;ITUETA;8º RISP - Governador Valadares;3) Interior de MG
+313420;ITUIUTABA;9º RISP - Uberlândia;3) Interior de MG
+313430;ITUMIRIM;6º RISP - Lavras;3) Interior de MG
+313440;ITURAMA;5º RISP - Uberaba;3) Interior de MG
+313450;ITUTINGA;6º RISP - Lavras;3) Interior de MG
+313460;JABOTICATUBAS;3º RISP - Vespasiano;2) RMBH (sem BH)
+313470;JACINTO;15º RISP - Teófilo Otoni;3) Interior de MG
+313480;JACUI;18º RISP - Poços de Caldas;3) Interior de MG
+313490;JACUTINGA;17º RISP - Pouso Alegre;3) Interior de MG
+313500;JAGUARACU;12º RISP - Ipatinga;3) Interior de MG
+313505;JAIBA;11º RISP - Montes Claros;3) Interior de MG
+313507;JAMPRUCA;15º RISP - Teófilo Otoni;3) Interior de MG
+313510;JANAUBA;11º RISP - Montes Claros;3) Interior de MG
+313520;JANUARIA;11º RISP - Montes Claros;3) Interior de MG
+313530;JAPARAIBA;7º RISP - Divinópolis;3) Interior de MG
+313535;JAPONVAR;11º RISP - Montes Claros;3) Interior de MG
+313540;JECEABA;13º RISP - Barbacena;3) Interior de MG
+313545;JENIPAPO DE MINAS;14º RISP - Curvelo;3) Interior de MG
+313550;JEQUERI;12º RISP - Ipatinga;3) Interior de MG
+313560;JEQUITAI;14º RISP - Curvelo;3) Interior de MG
+313570;JEQUITIBA;19º RISP - Sete Lagoas;3) Interior de MG
+313580;JEQUITINHONHA;15º RISP - Teófilo Otoni;3) Interior de MG
+313590;JESUANIA;6º RISP - Lavras;3) Interior de MG
+313600;JOAIMA;15º RISP - Teófilo Otoni;3) Interior de MG
+313610;JOANESIA;12º RISP - Ipatinga;3) Interior de MG
+313620;JOAO MONLEVADE;12º RISP - Ipatinga;3) Interior de MG
+313630;JOAO PINHEIRO;16º RISP - Unaí;3) Interior de MG
+313640;JOAQUIM FELICIO;14º RISP - Curvelo;3) Interior de MG
+313650;JORDANIA;15º RISP - Teófilo Otoni;3) Interior de MG
+313652;JOSE GONCALVES DE MINAS;14º RISP - Curvelo;3) Interior de MG
+313655;JOSE RAYDAN;8º RISP - Governador Valadares;3) Interior de MG
+313657;JOSENOPOLIS;11º RISP - Montes Claros;3) Interior de MG
+313660;NOVA UNIAO;3º RISP - Vespasiano;2) RMBH (sem BH)
+313665;JUATUBA;2º RISP - Contagem;2) RMBH (sem BH)
+313670;JUIZ DE FORA;4º RISP - Juiz de Fora;3) Interior de MG
+313680;JURAMENTO;11º RISP - Montes Claros;3) Interior de MG
+313690;JURUAIA;18º RISP - Poços de Caldas;3) Interior de MG
+313695;JUVENILIA;11º RISP - Montes Claros;3) Interior de MG
+313700;LADAINHA;15º RISP - Teófilo Otoni;3) Interior de MG
+313710;LAGAMAR;10º RISP - Patos de Minas;3) Interior de MG
+313720;LAGOA DA PRATA;7º RISP - Divinópolis;3) Interior de MG
+313730;LAGOA DOS PATOS;11º RISP - Montes Claros;3) Interior de MG
+313740;LAGOA DOURADA;13º RISP - Barbacena;3) Interior de MG
+313750;LAGOA FORMOSA;10º RISP - Patos de Minas;3) Interior de MG
+313753;LAGOA GRANDE;10º RISP - Patos de Minas;3) Interior de MG
+313760;LAGOA SANTA;3º RISP - Vespasiano;2) RMBH (sem BH)
+313770;LAJINHA;12º RISP - Ipatinga;3) Interior de MG
+313780;LAMBARI;6º RISP - Lavras;3) Interior de MG
+313790;LAMIM;13º RISP - Barbacena;3) Interior de MG
+313800;LARANJAL;4º RISP - Juiz de Fora;3) Interior de MG
+313810;LASSANCE;14º RISP - Curvelo;3) Interior de MG
+313820;LAVRAS;6º RISP - Lavras;3) Interior de MG
+313830;LEANDRO FERREIRA;7º RISP - Divinópolis;3) Interior de MG
+313835;LEME DO PRADO;14º RISP - Curvelo;3) Interior de MG
+313840;LEOPOLDINA;4º RISP - Juiz de Fora;3) Interior de MG
+313850;LIBERDADE;17º RISP - Pouso Alegre;3) Interior de MG
+313860;LIMA DUARTE;4º RISP - Juiz de Fora;3) Interior de MG
+313862;LIMEIRA DO OESTE;5º RISP - Uberaba;3) Interior de MG
+313865;LONTRA;11º RISP - Montes Claros;3) Interior de MG
+313867;LUISBURGO;12º RISP - Ipatinga;3) Interior de MG
+313868;LUISLANDIA;11º RISP - Montes Claros;3) Interior de MG
+313870;LUMINARIAS;6º RISP - Lavras;3) Interior de MG
+313880;LUZ;7º RISP - Divinópolis;3) Interior de MG
+313890;MACHACALIS;15º RISP - Teófilo Otoni;3) Interior de MG
+313900;MACHADO;18º RISP - Poços de Caldas;3) Interior de MG
+313910;MADRE DE DEUS DE MINAS;13º RISP - Barbacena;3) Interior de MG
+313920;MALACACHETA;15º RISP - Teófilo Otoni;3) Interior de MG
+313925;MAMONAS;11º RISP - Montes Claros;3) Interior de MG
+313930;MANGA;11º RISP - Montes Claros;3) Interior de MG
+313940;MANHUACU;12º RISP - Ipatinga;3) Interior de MG
+313950;MANHUMIRIM;12º RISP - Ipatinga;3) Interior de MG
+313960;MANTENA;8º RISP - Governador Valadares;3) Interior de MG
+313970;MARAVILHAS;7º RISP - Divinópolis;3) Interior de MG
+313980;MAR DE ESPANHA;4º RISP - Juiz de Fora;3) Interior de MG
+313990;MARIA DA FE;17º RISP - Pouso Alegre;3) Interior de MG
+314000;MARIANA;3º RISP - Vespasiano;3) Interior de MG
+314010;MARILAC;8º RISP - Governador Valadares;3) Interior de MG
+314015;MARIO CAMPOS;2º RISP - Contagem;2) RMBH (sem BH)
+314020;MARIPA DE MINAS;4º RISP - Juiz de Fora;3) Interior de MG
+314030;MARLIERIA;12º RISP - Ipatinga;3) Interior de MG
+314040;MARMELOPOLIS;17º RISP - Pouso Alegre;3) Interior de MG
+314050;MARTINHO CAMPOS;7º RISP - Divinópolis;3) Interior de MG
+314053;MARTINS SOARES;12º RISP - Ipatinga;3) Interior de MG
+314055;MATA VERDE;15º RISP - Teófilo Otoni;3) Interior de MG
+314060;MATERLANDIA;8º RISP - Governador Valadares;3) Interior de MG
+314070;MATEUS LEME;2º RISP - Contagem;2) RMBH (sem BH)
+314080;MATIAS BARBOSA;4º RISP - Juiz de Fora;3) Interior de MG
+314085;MATIAS CARDOSO;11º RISP - Montes Claros;3) Interior de MG
+314090;MATIPO;12º RISP - Ipatinga;3) Interior de MG
+314100;MATO VERDE;11º RISP - Montes Claros;3) Interior de MG
+314110;MATOZINHOS;19º RISP - Sete Lagoas;2) RMBH (sem BH)
+314120;MATUTINA;10º RISP - Patos de Minas;3) Interior de MG
+314130;MEDEIROS;7º RISP - Divinópolis;3) Interior de MG
+314140;MEDINA;15º RISP - Teófilo Otoni;3) Interior de MG
+314150;MENDES PIMENTEL;8º RISP - Governador Valadares;3) Interior de MG
+314160;MERCES;4º RISP - Juiz de Fora;3) Interior de MG
+314170;MESQUITA;12º RISP - Ipatinga;3) Interior de MG
+314180;MINAS NOVAS;14º RISP - Curvelo;3) Interior de MG
+314190;MINDURI;17º RISP - Pouso Alegre;3) Interior de MG
+314200;MIRABELA;11º RISP - Montes Claros;3) Interior de MG
+314210;MIRADOURO;4º RISP - Juiz de Fora;3) Interior de MG
+314220;MIRAI;4º RISP - Juiz de Fora;3) Interior de MG
+314225;MIRAVANIA;11º RISP - Montes Claros;3) Interior de MG
+314230;MOEDA;13º RISP - Barbacena;3) Interior de MG
+314240;MOEMA;7º RISP - Divinópolis;3) Interior de MG
+314250;MONJOLOS;14º RISP - Curvelo;3) Interior de MG
+314260;MONSENHOR PAULO;6º RISP - Lavras;3) Interior de MG
+314270;MONTALVANIA;11º RISP - Montes Claros;3) Interior de MG
+314280;MONTE ALEGRE DE MINAS;9º RISP - Uberlândia;3) Interior de MG
+314290;MONTE AZUL;11º RISP - Montes Claros;3) Interior de MG
+314300;MONTE BELO;18º RISP - Poços de Caldas;3) Interior de MG
+314310;MONTE CARMELO;10º RISP - Patos de Minas;3) Interior de MG
+314315;MONTE FORMOSO;15º RISP - Teófilo Otoni;3) Interior de MG
+314320;MONTE SANTO DE MINAS;18º RISP - Poços de Caldas;3) Interior de MG
+314330;MONTES CLAROS;11º RISP - Montes Claros;3) Interior de MG
+314340;MONTE SIAO;17º RISP - Pouso Alegre;3) Interior de MG
+314345;MONTEZUMA;11º RISP - Montes Claros;3) Interior de MG
+314350;MORADA NOVA DE MINAS;7º RISP - Divinópolis;3) Interior de MG
+314360;MORRO DA GARCA;14º RISP - Curvelo;3) Interior de MG
+314370;MORRO DO PILAR;14º RISP - Curvelo;3) Interior de MG
+314380;MUNHOZ;17º RISP - Pouso Alegre;3) Interior de MG
+314390;MURIAE;4º RISP - Juiz de Fora;3) Interior de MG
+314400;MUTUM;12º RISP - Ipatinga;3) Interior de MG
+314410;MUZAMBINHO;18º RISP - Poços de Caldas;3) Interior de MG
+314420;NACIP RAYDAN;8º RISP - Governador Valadares;3) Interior de MG
+314430;NANUQUE;15º RISP - Teófilo Otoni;3) Interior de MG
+314435;NAQUE;12º RISP - Ipatinga;3) Interior de MG
+314437;NATALANDIA;16º RISP - Unaí;3) Interior de MG
+314440;NATERCIA;17º RISP - Pouso Alegre;3) Interior de MG
+314450;NAZARENO;13º RISP - Barbacena;3) Interior de MG
+314460;NEPOMUCENO;6º RISP - Lavras;3) Interior de MG
+314465;NINHEIRA;11º RISP - Montes Claros;3) Interior de MG
+314467;NOVA BELEM;8º RISP - Governador Valadares;3) Interior de MG
+314470;NOVA ERA;12º RISP - Ipatinga;3) Interior de MG
+314480;NOVA LIMA;3º RISP - Vespasiano;2) RMBH (sem BH)
+314490;NOVA MODICA;15º RISP - Teófilo Otoni;3) Interior de MG
+314500;NOVA PONTE;5º RISP - Uberaba;3) Interior de MG
+314505;NOVA PORTEIRINHA;11º RISP - Montes Claros;3) Interior de MG
+314510;NOVA RESENDE;18º RISP - Poços de Caldas;3) Interior de MG
+314520;NOVA SERRANA;7º RISP - Divinópolis;3) Interior de MG
+314530;NOVO CRUZEIRO;15º RISP - Teófilo Otoni;3) Interior de MG
+314535;NOVO ORIENTE DE MINAS;15º RISP - Teófilo Otoni;3) Interior de MG
+314537;NOVORIZONTE;11º RISP - Montes Claros;3) Interior de MG
+314540;OLARIA;4º RISP - Juiz de Fora;3) Interior de MG
+314545;OLHOS-D'AGUA;11º RISP - Montes Claros;3) Interior de MG
+314550;OLIMPIO NORONHA;6º RISP - Lavras;3) Interior de MG
+314560;OLIVEIRA;6º RISP - Lavras;3) Interior de MG
+314570;OLIVEIRA FORTES;13º RISP - Barbacena;3) Interior de MG
+314580;ONCA DO PITANGUI;7º RISP - Divinópolis;3) Interior de MG
+314585;ORATORIOS;12º RISP - Ipatinga;3) Interior de MG
+314587;ORIZANIA;4º RISP - Juiz de Fora;3) Interior de MG
+314590;OURO BRANCO;13º RISP - Barbacena;3) Interior de MG
+314600;OURO FINO;17º RISP - Pouso Alegre;3) Interior de MG
+314610;OURO PRETO;3º RISP - Vespasiano;3) Interior de MG
+314620;OURO VERDE DE MINAS;15º RISP - Teófilo Otoni;3) Interior de MG
+314625;PADRE CARVALHO;11º RISP - Montes Claros;3) Interior de MG
+314630;PADRE PARAISO;15º RISP - Teófilo Otoni;3) Interior de MG
+314640;PAINEIRAS;7º RISP - Divinópolis;3) Interior de MG
+314650;PAINS;7º RISP - Divinópolis;3) Interior de MG
+314655;PAI PEDRO;11º RISP - Montes Claros;3) Interior de MG
+314660;PAIVA;13º RISP - Barbacena;3) Interior de MG
+314670;PALMA;4º RISP - Juiz de Fora;3) Interior de MG
+314675;PALMOPOLIS;15º RISP - Teófilo Otoni;3) Interior de MG
+314690;PAPAGAIOS;7º RISP - Divinópolis;3) Interior de MG
+314700;PARACATU;16º RISP - Unaí;3) Interior de MG
+314710;PARA DE MINAS;7º RISP - Divinópolis;3) Interior de MG
+314720;PARAGUACU;18º RISP - Poços de Caldas;3) Interior de MG
+314730;PARAISOPOLIS;17º RISP - Pouso Alegre;3) Interior de MG
+314740;PARAOPEBA;19º RISP - Sete Lagoas;3) Interior de MG
+314750;PASSABEM;12º RISP - Ipatinga;3) Interior de MG
+314760;PASSA QUATRO;17º RISP - Pouso Alegre;3) Interior de MG
+314770;PASSA TEMPO;6º RISP - Lavras;3) Interior de MG
+314780;PASSA VINTE;17º RISP - Pouso Alegre;3) Interior de MG
+314790;PASSOS;18º RISP - Poços de Caldas;3) Interior de MG
+314795;PATIS;11º RISP - Montes Claros;3) Interior de MG
+314800;PATOS DE MINAS;10º RISP - Patos de Minas;3) Interior de MG
+314810;PATROCINIO;10º RISP - Patos de Minas;3) Interior de MG
+314820;PATROCINIO DO MURIAE;4º RISP - Juiz de Fora;3) Interior de MG
+314830;PAULA CANDIDO;4º RISP - Juiz de Fora;3) Interior de MG
+314840;PAULISTAS;8º RISP - Governador Valadares;3) Interior de MG
+314850;PAVAO;15º RISP - Teófilo Otoni;3) Interior de MG
+314860;PECANHA;8º RISP - Governador Valadares;3) Interior de MG
+314870;PEDRA AZUL;15º RISP - Teófilo Otoni;3) Interior de MG
+314875;PEDRA BONITA;12º RISP - Ipatinga;3) Interior de MG
+314880;PEDRA DO ANTA;4º RISP - Juiz de Fora;3) Interior de MG
+314890;PEDRA DO INDAIA;7º RISP - Divinópolis;3) Interior de MG
+314900;PEDRA DOURADA;4º RISP - Juiz de Fora;3) Interior de MG
+314910;PEDRALVA;17º RISP - Pouso Alegre;3) Interior de MG
+314915;PEDRAS DE MARIA DA CRUZ;11º RISP - Montes Claros;3) Interior de MG
+314920;PEDRINOPOLIS;5º RISP - Uberaba;3) Interior de MG
+314930;PEDRO LEOPOLDO;19º RISP - Sete Lagoas;2) RMBH (sem BH)
+314940;PEDRO TEIXEIRA;4º RISP - Juiz de Fora;3) Interior de MG
+314950;PEQUERI;4º RISP - Juiz de Fora;3) Interior de MG
+314960;PEQUI;7º RISP - Divinópolis;3) Interior de MG
+314970;PERDIGAO;7º RISP - Divinópolis;3) Interior de MG
+314980;PERDIZES;5º RISP - Uberaba;3) Interior de MG
+314990;PERDOES;6º RISP - Lavras;3) Interior de MG
+314995;PERIQUITO;8º RISP - Governador Valadares;3) Interior de MG
+315000;PESCADOR;15º RISP - Teófilo Otoni;3) Interior de MG
+315010;PIAU;4º RISP - Juiz de Fora;3) Interior de MG
+315015;PIEDADE DE CARATINGA;12º RISP - Ipatinga;3) Interior de MG
+315020;PIEDADE DE PONTE NOVA;12º RISP - Ipatinga;3) Interior de MG
+315030;PIEDADE DO RIO GRANDE;13º RISP - Barbacena;3) Interior de MG
+315040;PIEDADE DOS GERAIS;2º RISP - Contagem;3) Interior de MG
+315050;PIMENTA;7º RISP - Divinópolis;3) Interior de MG
+315053;PINGO D'AGUA;12º RISP - Ipatinga;3) Interior de MG
+315057;PINTOPOLIS;11º RISP - Montes Claros;3) Interior de MG
+315060;PIRACEMA;6º RISP - Lavras;3) Interior de MG
+315070;PIRAJUBA;5º RISP - Uberaba;3) Interior de MG
+315080;PIRANGA;13º RISP - Barbacena;3) Interior de MG
+315090;PIRANGUCU;17º RISP - Pouso Alegre;3) Interior de MG
+315100;PIRANGUINHO;17º RISP - Pouso Alegre;3) Interior de MG
+315110;PIRAPETINGA;4º RISP - Juiz de Fora;3) Interior de MG
+315120;PIRAPORA;14º RISP - Curvelo;3) Interior de MG
+315130;PIRAUBA;4º RISP - Juiz de Fora;3) Interior de MG
+315140;PITANGUI;7º RISP - Divinópolis;3) Interior de MG
+315150;PIUMHI;18º RISP - Poços de Caldas;3) Interior de MG
+315160;PLANURA;5º RISP - Uberaba;3) Interior de MG
+315170;POCO FUNDO;18º RISP - Poços de Caldas;3) Interior de MG
+315180;POCOS DE CALDAS;18º RISP - Poços de Caldas;3) Interior de MG
+315190;POCRANE;12º RISP - Ipatinga;3) Interior de MG
+315200;POMPEU;7º RISP - Divinópolis;3) Interior de MG
+315210;PONTE NOVA;12º RISP - Ipatinga;3) Interior de MG
+315213;PONTO CHIQUE;11º RISP - Montes Claros;3) Interior de MG
+315217;PONTO DOS VOLANTES;15º RISP - Teófilo Otoni;3) Interior de MG
+315220;PORTEIRINHA;11º RISP - Montes Claros;3) Interior de MG
+315230;PORTO FIRME;13º RISP - Barbacena;3) Interior de MG
+315240;POTE;15º RISP - Teófilo Otoni;3) Interior de MG
+315250;POUSO ALEGRE;17º RISP - Pouso Alegre;3) Interior de MG
+315260;POUSO ALTO;17º RISP - Pouso Alegre;3) Interior de MG
+315270;PRADOS;13º RISP - Barbacena;3) Interior de MG
+315280;PRATA;9º RISP - Uberlândia;3) Interior de MG
+315290;PRATAPOLIS;18º RISP - Poços de Caldas;3) Interior de MG
+315300;PRATINHA;5º RISP - Uberaba;3) Interior de MG
+315310;PRESIDENTE BERNARDES;13º RISP - Barbacena;3) Interior de MG
+315320;PRESIDENTE JUSCELINO;14º RISP - Curvelo;3) Interior de MG
+315330;PRESIDENTE KUBITSCHEK;14º RISP - Curvelo;3) Interior de MG
+315340;PRESIDENTE OLEGARIO;10º RISP - Patos de Minas;3) Interior de MG
+315350;ALTO JEQUITIBA;12º RISP - Ipatinga;3) Interior de MG
+315360;PRUDENTE DE MORAIS;19º RISP - Sete Lagoas;3) Interior de MG
+315370;QUARTEL GERAL;7º RISP - Divinópolis;3) Interior de MG
+315380;QUELUZITO;13º RISP - Barbacena;3) Interior de MG
+315390;RAPOSOS;3º RISP - Vespasiano;2) RMBH (sem BH)
+315400;RAUL SOARES;12º RISP - Ipatinga;3) Interior de MG
+315410;RECREIO;4º RISP - Juiz de Fora;3) Interior de MG
+315415;REDUTO;12º RISP - Ipatinga;3) Interior de MG
+315420;RESENDE COSTA;13º RISP - Barbacena;3) Interior de MG
+315430;RESPLENDOR;8º RISP - Governador Valadares;3) Interior de MG
+315440;RESSAQUINHA;13º RISP - Barbacena;3) Interior de MG
+315445;RIACHINHO;16º RISP - Unaí;3) Interior de MG
+315450;RIACHO DOS MACHADOS;11º RISP - Montes Claros;3) Interior de MG
+315460;RIBEIRAO DAS NEVES;2º RISP - Contagem;2) RMBH (sem BH)
+315470;RIBEIRAO VERMELHO;6º RISP - Lavras;3) Interior de MG
+315480;RIO ACIMA;3º RISP - Vespasiano;2) RMBH (sem BH)
+315490;RIO CASCA;12º RISP - Ipatinga;3) Interior de MG
+315500;RIO DOCE;12º RISP - Ipatinga;3) Interior de MG
+315510;RIO DO PRADO;15º RISP - Teófilo Otoni;3) Interior de MG
+315520;RIO ESPERA;13º RISP - Barbacena;3) Interior de MG
+315530;RIO MANSO;2º RISP - Contagem;2) RMBH (sem BH)
+315540;RIO NOVO;4º RISP - Juiz de Fora;3) Interior de MG
+315550;RIO PARANAIBA;10º RISP - Patos de Minas;3) Interior de MG
+315560;RIO PARDO DE MINAS;11º RISP - Montes Claros;3) Interior de MG
+315570;RIO PIRACICABA;12º RISP - Ipatinga;3) Interior de MG
+315580;RIO POMBA;4º RISP - Juiz de Fora;3) Interior de MG
+315590;RIO PRETO;4º RISP - Juiz de Fora;3) Interior de MG
+315600;RIO VERMELHO;8º RISP - Governador Valadares;3) Interior de MG
+315610;RITAPOLIS;13º RISP - Barbacena;3) Interior de MG
+315620;ROCHEDO DE MINAS;4º RISP - Juiz de Fora;3) Interior de MG
+315630;RODEIRO;4º RISP - Juiz de Fora;3) Interior de MG
+315640;ROMARIA;10º RISP - Patos de Minas;3) Interior de MG
+315645;ROSARIO DA LIMEIRA;4º RISP - Juiz de Fora;3) Interior de MG
+315650;RUBELITA;11º RISP - Montes Claros;3) Interior de MG
+315660;RUBIM;15º RISP - Teófilo Otoni;3) Interior de MG
+315670;SABARA;3º RISP - Vespasiano;2) RMBH (sem BH)
+315680;SABINOPOLIS;8º RISP - Governador Valadares;3) Interior de MG
+315690;SACRAMENTO;5º RISP - Uberaba;3) Interior de MG
+315700;SALINAS;11º RISP - Montes Claros;3) Interior de MG
+315710;SALTO DA DIVISA;15º RISP - Teófilo Otoni;3) Interior de MG
+315720;SANTA BARBARA;12º RISP - Ipatinga;3) Interior de MG
+315725;SANTA BARBARA DO LESTE;12º RISP - Ipatinga;3) Interior de MG
+315727;SANTA BARBARA DO MONTE VERDE;4º RISP - Juiz de Fora;3) Interior de MG
+315730;SANTA BARBARA DO TUGURIO;13º RISP - Barbacena;3) Interior de MG
+315733;SANTA CRUZ DE MINAS;13º RISP - Barbacena;3) Interior de MG
+315737;SANTA CRUZ DE SALINAS;11º RISP - Montes Claros;3) Interior de MG
+315740;SANTA CRUZ DO ESCALVADO;12º RISP - Ipatinga;3) Interior de MG
+315750;SANTA EFIGENIA DE MINAS;8º RISP - Governador Valadares;3) Interior de MG
+315760;SANTA FE DE MINAS;14º RISP - Curvelo;3) Interior de MG
+315765;SANTA HELENA DE MINAS;15º RISP - Teófilo Otoni;3) Interior de MG
+315770;SANTA JULIANA;5º RISP - Uberaba;3) Interior de MG
+315780;SANTA LUZIA;3º RISP - Vespasiano;2) RMBH (sem BH)
+315790;SANTA MARGARIDA;12º RISP - Ipatinga;3) Interior de MG
+315800;SANTA MARIA DE ITABIRA;12º RISP - Ipatinga;3) Interior de MG
+315810;SANTA MARIA DO SALTO;15º RISP - Teófilo Otoni;3) Interior de MG
+315820;SANTA MARIA DO SUACUI;8º RISP - Governador Valadares;3) Interior de MG
+315830;SANTANA DA VARGEM;6º RISP - Lavras;3) Interior de MG
+315840;SANTANA DE CATAGUASES;4º RISP - Juiz de Fora;3) Interior de MG
+315850;SANTANA DE PIRAPAMA;19º RISP - Sete Lagoas;3) Interior de MG
+315860;SANTANA DO DESERTO;4º RISP - Juiz de Fora;3) Interior de MG
+315870;SANTANA DO GARAMBEU;13º RISP - Barbacena;3) Interior de MG
+315880;SANTANA DO JACARE;6º RISP - Lavras;3) Interior de MG
+315890;SANTANA DO MANHUACU;12º RISP - Ipatinga;3) Interior de MG
+315895;SANTANA DO PARAISO;12º RISP - Ipatinga;3) Interior de MG
+315900;SANTANA DO RIACHO;3º RISP - Vespasiano;3) Interior de MG
+315910;SANTANA DOS MONTES;13º RISP - Barbacena;3) Interior de MG
+315920;SANTA RITA DE CALDAS;18º RISP - Poços de Caldas;3) Interior de MG
+315930;SANTA RITA DE JACUTINGA;4º RISP - Juiz de Fora;3) Interior de MG
+315935;SANTA RITA DE MINAS;12º RISP - Ipatinga;3) Interior de MG
+315940;SANTA RITA DO IBITIPOCA;13º RISP - Barbacena;3) Interior de MG
+315950;SANTA RITA DO ITUETO;8º RISP - Governador Valadares;3) Interior de MG
+315960;SANTA RITA DO SAPUCAI;17º RISP - Pouso Alegre;3) Interior de MG
+315970;SANTA ROSA DA SERRA;5º RISP - Uberaba;3) Interior de MG
+315980;SANTA VITORIA;9º RISP - Uberlândia;3) Interior de MG
+315990;SANTO ANTONIO DO AMPARO;6º RISP - Lavras;3) Interior de MG
+316000;SANTO ANTONIO DO AVENTUREIRO;4º RISP - Juiz de Fora;3) Interior de MG
+316010;SANTO ANTONIO DO GRAMA;12º RISP - Ipatinga;3) Interior de MG
+316020;SANTO ANTONIO DO ITAMBE;14º RISP - Curvelo;3) Interior de MG
+316030;SANTO ANTONIO DO JACINTO;15º RISP - Teófilo Otoni;3) Interior de MG
+316040;SANTO ANTONIO DO MONTE;7º RISP - Divinópolis;3) Interior de MG
+316045;SANTO ANTONIO DO RETIRO;11º RISP - Montes Claros;3) Interior de MG
+316050;SANTO ANTONIO DO RIO ABAIXO;14º RISP - Curvelo;3) Interior de MG
+316060;SANTO HIPOLITO;14º RISP - Curvelo;3) Interior de MG
+316070;SANTOS DUMONT;13º RISP - Barbacena;3) Interior de MG
+316080;SAO BENTO ABADE;6º RISP - Lavras;3) Interior de MG
+316090;SAO BRAS DO SUACUI;13º RISP - Barbacena;3) Interior de MG
+316095;SAO DOMINGOS DAS DORES;12º RISP - Ipatinga;3) Interior de MG
+316100;SAO DOMINGOS DO PRATA;12º RISP - Ipatinga;3) Interior de MG
+316105;SAO FELIX DE MINAS;8º RISP - Governador Valadares;3) Interior de MG
+316110;SAO FRANCISCO;11º RISP - Montes Claros;3) Interior de MG
+316120;SAO FRANCISCO DE PAULA;6º RISP - Lavras;3) Interior de MG
+316130;SAO FRANCISCO DE SALES;5º RISP - Uberaba;3) Interior de MG
+316140;SAO FRANCISCO DO GLORIA;4º RISP - Juiz de Fora;3) Interior de MG
+316150;SAO GERALDO;4º RISP - Juiz de Fora;3) Interior de MG
+316160;SAO GERALDO DA PIEDADE;8º RISP - Governador Valadares;3) Interior de MG
+316165;SAO GERALDO DO BAIXIO;8º RISP - Governador Valadares;3) Interior de MG
+316170;SAO GONCALO DO ABAETE;10º RISP - Patos de Minas;3) Interior de MG
+316180;SAO GONCALO DO PARA;7º RISP - Divinópolis;3) Interior de MG
+316190;SAO GONCALO DO RIO ABAIXO;12º RISP - Ipatinga;3) Interior de MG
+316200;SAO GONCALO DO SAPUCAI;17º RISP - Pouso Alegre;3) Interior de MG
+316210;SAO GOTARDO;10º RISP - Patos de Minas;3) Interior de MG
+316220;SAO JOAO BATISTA GLORIA;18º RISP - Poços de Caldas;3) Interior de MG
+316225;SAO JOAO DA LAGOA;11º RISP - Montes Claros;3) Interior de MG
+316230;SAO JOAO DA MATA;17º RISP - Pouso Alegre;3) Interior de MG
+316240;SAO JOAO DA PONTE;11º RISP - Montes Claros;3) Interior de MG
+316245;SAO JOAO DAS MISSOES;11º RISP - Montes Claros;3) Interior de MG
+316250;SAO JOAO DEL REI;13º RISP - Barbacena;3) Interior de MG
+316255;SAO JOAO DO MANHUACU;12º RISP - Ipatinga;3) Interior de MG
+316257;SAO JOAO DO MANTENINHA;8º RISP - Governador Valadares;3) Interior de MG
+316260;SAO JOAO DO ORIENTE;12º RISP - Ipatinga;3) Interior de MG
+316265;SAO JOAO DO PACUI;11º RISP - Montes Claros;3) Interior de MG
+316270;SAO JOAO DO PARAISO;11º RISP - Montes Claros;3) Interior de MG
+316280;SAO JOAO EVANGELISTA;8º RISP - Governador Valadares;3) Interior de MG
+316290;SAO JOAO NEPOMUCENO;4º RISP - Juiz de Fora;3) Interior de MG
+316292;SAO JOAQUIM DE BICAS;2º RISP - Contagem;2) RMBH (sem BH)
+316294;SAO JOSE DA BARRA;18º RISP - Poços de Caldas;3) Interior de MG
+316295;SAO JOSE DA LAPA;3º RISP - Vespasiano;2) RMBH (sem BH)
+316300;SAO JOSE DA SAFIRA;8º RISP - Governador Valadares;3) Interior de MG
+316310;SAO JOSE DA VARGINHA;7º RISP - Divinópolis;3) Interior de MG
+316320;SAO JOSE DO ALEGRE;17º RISP - Pouso Alegre;3) Interior de MG
+316330;SAO JOSE DO DIVINO;15º RISP - Teófilo Otoni;3) Interior de MG
+316340;SAO JOSE DO GOIABAL;12º RISP - Ipatinga;3) Interior de MG
+316350;SAO JOSE DO JACURI;8º RISP - Governador Valadares;3) Interior de MG
+316360;SAO JOSE DO MANTIMENTO;12º RISP - Ipatinga;3) Interior de MG
+316370;SAO LOURENCO;17º RISP - Pouso Alegre;3) Interior de MG
+316380;SAO MIGUEL DO ANTA;4º RISP - Juiz de Fora;3) Interior de MG
+316390;SAO PEDRO DA UNIAO;18º RISP - Poços de Caldas;3) Interior de MG
+316400;SAO PEDRO DOS FERROS;12º RISP - Ipatinga;3) Interior de MG
+316410;SAO PEDRO DO SUACUI;8º RISP - Governador Valadares;3) Interior de MG
+316420;SAO ROMAO;14º RISP - Curvelo;3) Interior de MG
+316430;SAO ROQUE DE MINAS;18º RISP - Poços de Caldas;3) Interior de MG
+316440;SAO SEBASTIAO DA BELA VISTA;17º RISP - Pouso Alegre;3) Interior de MG
+316443;SAO SEBASTIAO DA VARGEM ALEGRE;4º RISP - Juiz de Fora;3) Interior de MG
+316447;SAO SEBASTIAO DO ANTA;12º RISP - Ipatinga;3) Interior de MG
+316450;SAO SEBAST. DO MARANHAO;8º RISP - Governador Valadares;3) Interior de MG
+316460;SAO SEBASTIAO DO OESTE;7º RISP - Divinópolis;3) Interior de MG
+316470;SAO SEBASTIAO PARAISO;18º RISP - Poços de Caldas;3) Interior de MG
+316480;SAO SEB.DO RIO PRETO;14º RISP - Curvelo;3) Interior de MG
+316490;SAO SEBASTIAO DO RIO VERDE;17º RISP - Pouso Alegre;3) Interior de MG
+316500;SAO TIAGO;13º RISP - Barbacena;3) Interior de MG
+316510;SAO TOMAS DE AQUINO;18º RISP - Poços de Caldas;3) Interior de MG
+316520;SAO TOME DAS LETRAS;6º RISP - Lavras;3) Interior de MG
+316530;SAO VICENTE DE MINAS;13º RISP - Barbacena;3) Interior de MG
+316540;SAPUCAI-MIRIM;17º RISP - Pouso Alegre;3) Interior de MG
+316550;SARDOA;8º RISP - Governador Valadares;3) Interior de MG
+316553;SARZEDO;2º RISP - Contagem;2) RMBH (sem BH)
+316555;SETUBINHA;15º RISP - Teófilo Otoni;3) Interior de MG
+316556;SEM-PEIXE;12º RISP - Ipatinga;3) Interior de MG
+316557;SENADOR AMARAL;17º RISP - Pouso Alegre;3) Interior de MG
+316560;SENADOR CORTES;4º RISP - Juiz de Fora;3) Interior de MG
+316570;SENADOR FIRMINO;4º RISP - Juiz de Fora;3) Interior de MG
+316580;SENADOR JOSE BENTO;17º RISP - Pouso Alegre;3) Interior de MG
+316590;SENADOR MODESTINO GONCALVES;14º RISP - Curvelo;3) Interior de MG
+316600;SENHORA DE OLIVEIRA;13º RISP - Barbacena;3) Interior de MG
+316610;SENHORA DO PORTO;8º RISP - Governador Valadares;3) Interior de MG
+316620;SENHORA DOS REMEDIOS;13º RISP - Barbacena;3) Interior de MG
+316630;SERICITA;12º RISP - Ipatinga;3) Interior de MG
+316640;SERITINGA;17º RISP - Pouso Alegre;3) Interior de MG
+316650;SERRA AZUL DE MINAS;14º RISP - Curvelo;3) Interior de MG
+316660;SERRA DA SAUDADE;7º RISP - Divinópolis;3) Interior de MG
+316670;SERRA DOS AIMORES;15º RISP - Teófilo Otoni;3) Interior de MG
+316680;SERRA DO SALITRE;10º RISP - Patos de Minas;3) Interior de MG
+316690;SERRANIA;18º RISP - Poços de Caldas;3) Interior de MG
+316695;SERRANOPOLIS DE MINAS;11º RISP - Montes Claros;3) Interior de MG
+316700;SERRANOS;17º RISP - Pouso Alegre;3) Interior de MG
+316710;SERRO;14º RISP - Curvelo;3) Interior de MG
+316720;SETE LAGOAS;19º RISP - Sete Lagoas;3) Interior de MG
+316730;SILVEIRANIA;4º RISP - Juiz de Fora;3) Interior de MG
+316740;SILVIANOPOLIS;17º RISP - Pouso Alegre;3) Interior de MG
+316750;SIMAO PEREIRA;4º RISP - Juiz de Fora;3) Interior de MG
+316760;SIMONESIA;12º RISP - Ipatinga;3) Interior de MG
+316770;SOBRALIA;8º RISP - Governador Valadares;3) Interior de MG
+316780;SOLEDADE DE MINAS;17º RISP - Pouso Alegre;3) Interior de MG
+316790;TABULEIRO;4º RISP - Juiz de Fora;3) Interior de MG
+316800;TAIOBEIRAS;11º RISP - Montes Claros;3) Interior de MG
+316805;TAPARUBA;12º RISP - Ipatinga;3) Interior de MG
+316810;TAPIRA;5º RISP - Uberaba;3) Interior de MG
+316820;TAPIRAI;7º RISP - Divinópolis;3) Interior de MG
+316830;TAQUARACU DE MINAS;3º RISP - Vespasiano;2) RMBH (sem BH)
+316840;TARUMIRIM;8º RISP - Governador Valadares;3) Interior de MG
+316850;TEIXEIRAS;4º RISP - Juiz de Fora;3) Interior de MG
+316860;TEOFILO OTONI;15º RISP - Teófilo Otoni;3) Interior de MG
+316870;TIMOTEO;12º RISP - Ipatinga;3) Interior de MG
+316880;TIRADENTES;13º RISP - Barbacena;3) Interior de MG
+316890;TIROS;10º RISP - Patos de Minas;3) Interior de MG
+316900;TOCANTINS;4º RISP - Juiz de Fora;3) Interior de MG
+316905;TOCOS DO MOJI;17º RISP - Pouso Alegre;3) Interior de MG
+316910;TOLEDO;17º RISP - Pouso Alegre;3) Interior de MG
+316920;TOMBOS;4º RISP - Juiz de Fora;3) Interior de MG
+316930;TRES CORACOES;6º RISP - Lavras;3) Interior de MG
+316935;TRES MARIAS;14º RISP - Curvelo;3) Interior de MG
+316940;TRES PONTAS;6º RISP - Lavras;3) Interior de MG
+316950;TUMIRITINGA;8º RISP - Governador Valadares;3) Interior de MG
+316960;TUPACIGUARA;9º RISP - Uberlândia;3) Interior de MG
+316970;TURMALINA;14º RISP - Curvelo;3) Interior de MG
+316980;TURVOLANDIA;17º RISP - Pouso Alegre;3) Interior de MG
+316990;UBA;4º RISP - Juiz de Fora;3) Interior de MG
+317000;UBAI;11º RISP - Montes Claros;3) Interior de MG
+317005;UBAPORANGA;12º RISP - Ipatinga;3) Interior de MG
+317010;UBERABA;5º RISP - Uberaba;3) Interior de MG
+317020;UBERLANDIA;9º RISP - Uberlândia;3) Interior de MG
+317030;UMBURATIBA;15º RISP - Teófilo Otoni;3) Interior de MG
+317040;UNAI;16º RISP - Unaí;3) Interior de MG
+317043;UNIAO DE MINAS;5º RISP - Uberaba;3) Interior de MG
+317047;URUANA DE MINAS;16º RISP - Unaí;3) Interior de MG
+317050;URUCANIA;12º RISP - Ipatinga;3) Interior de MG
+317052;URUCUIA;16º RISP - Unaí;3) Interior de MG
+317057;VARGEM ALEGRE;12º RISP - Ipatinga;3) Interior de MG
+317060;VARGEM BONITA;18º RISP - Poços de Caldas;3) Interior de MG
+317065;VARGEM GRANDE DO RIO PARDO;11º RISP - Montes Claros;3) Interior de MG
+317070;VARGINHA;6º RISP - Lavras;3) Interior de MG
+317075;VARJAO DE MINAS;10º RISP - Patos de Minas;3) Interior de MG
+317080;VARZEA DA PALMA;14º RISP - Curvelo;3) Interior de MG
+317090;VARZELANDIA;11º RISP - Montes Claros;3) Interior de MG
+317100;VAZANTE;16º RISP - Unaí;3) Interior de MG
+317103;VERDELANDIA;11º RISP - Montes Claros;3) Interior de MG
+317107;VEREDINHA;14º RISP - Curvelo;3) Interior de MG
+317110;VERISSIMO;5º RISP - Uberaba;3) Interior de MG
+317115;VERMELHO NOVO;12º RISP - Ipatinga;3) Interior de MG
+317120;VESPASIANO;3º RISP - Vespasiano;2) RMBH (sem BH)
+317130;VICOSA;4º RISP - Juiz de Fora;3) Interior de MG
+317140;VIEIRAS;4º RISP - Juiz de Fora;3) Interior de MG
+317150;MATHIAS LOBATO;8º RISP - Governador Valadares;3) Interior de MG
+317160;VIRGEM DA LAPA;15º RISP - Teófilo Otoni;3) Interior de MG
+317170;VIRGINIA;17º RISP - Pouso Alegre;3) Interior de MG
+317180;VIRGINOPOLIS;8º RISP - Governador Valadares;3) Interior de MG
+317190;VIRGOLANDIA;8º RISP - Governador Valadares;3) Interior de MG
+317200;VISCONDE DO RIO BRANCO;4º RISP - Juiz de Fora;3) Interior de MG
+317210;VOLTA GRANDE;4º RISP - Juiz de Fora;3) Interior de MG
+317220;WENCESLAU BRAZ;17º RISP - Pouso Alegre;3) Interior de MG
