@@ -4,7 +4,7 @@ Universidade Federal de Minas Gerais\
 Instituto de Ciências Exatas\
 Departamento de Ciência da Computação\
 Disciplina Introdução a Bancos de Dados (IBD)\
-1º Semestre de 2024\
+1º Semestre de 2024
 
 Autor: João Paulo Gonçalves da Silva
 
