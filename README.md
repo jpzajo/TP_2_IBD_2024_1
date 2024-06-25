@@ -43,11 +43,6 @@ Os dados da tabela referente a 2023 vão apenas até 02/08, resultando em um nú
 
 ![Total de registros por ano entre 2014 e 2023.](./images/total_casos_ano.png)
 
+# Conclusões
 
-
-
-
-
-
-
-
+Pelos dados observados, entende-se que o número de Registros de Eventos de Defesa Social (REDSs) não aumentou nem diminuiu consideravelmente com a pandemia no período observado. Como as estimativas chegam a [um aumento de 50%] (https://www.sejus.df.gov.br/wp-conteudo/uploads/2021/01/violencia-domestica-em-tempos-de-pandemia.pdf) no número de denúncias no Brasil inteiro, entende-se que ou Minas Gerais não foi tão afetada pela pandemia nesse aspecto, ou os casos que ocorreram não foram denunciados propriamente.
