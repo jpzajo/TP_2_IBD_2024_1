@@ -42,7 +42,7 @@ O número se manteve relativamente estável ao longo de todos os anos analisados
 
 ![Total de registros por ano entre 2014 e 2023.](./images/total_casos_ano.png)
 
-Os dados da tabela referente a 2023 vão apenas até 02/08, resultando em um número consideravelmente menor de casos em relação às outras tabelas. Assim, este outlier deve ser desconsiderado na análise referente ao total de casos.
+Os dados da tabela referente a 2023 vão apenas até 02/08, resultando em um número consideravelmente menor de casos em relação às outras tabelas. Assim, este outlier deve ser desconsiderado na análise referente ao total de casos, resultando em um desvio padrão de 975.43.
 
 # Conclusões
 
